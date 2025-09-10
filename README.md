@@ -4,7 +4,7 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-2.6.3-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-Este projeto é um bot multifuncional para Discord, desenvolvido em Python, que integra a poderosa API de IA generativa do Google Gemini para criar uma experiência de usuário rica e interativa. O bot combina funcionalidades de um chatbot avançado, um player de música robusto e ferramentas de utilidade, servindo como um assistente completo para servidores de Discord.
+Este projeto é um bot multifuncional para Discord, desenvolvido em Python, que integra a API de IA generativa do Gemini. O bot combina funcionalidades de um chatbot avançado, um player de música robusto e ferramentas de utilidade, servindo como um assistente completo para servidores de Discord.
 
 ## ✨ Principais Funcionalidades
 
