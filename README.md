@@ -25,9 +25,9 @@ Este projeto é um bot multifuncional para Discord, desenvolvido em Python, que 
 * **APIs e Serviços:** Discord API, Google Gemini API
 * **Infraestrutura de Áudio:** Servidor Lavalink (Java), FFmpeg
 
-## 🚀 Começando
+## 🚀 Como começar?
 
-Para rodar este projeto localmente, siga os passos abaixo.
+Para rodar este projeto localmente, só seguir o tutorial abaixo de como fiz: 
 
 ### Pré-requisitos
 
